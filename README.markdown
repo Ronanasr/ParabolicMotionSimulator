@@ -48,7 +48,7 @@ The script uses `numpy` for calculations and `matplotlib` (via `pylab`) for plot
 ## Example Output
 For an initial velocity `v0 = 10` m/s and a launch angle of 45 degrees, the script produces a plot like this:
 
-![Example Plot](example_plot.png) *(Note: You can add a screenshot of the plot here by saving it and uploading it to the repository.)*
+![Projectile Plot](projectile_plot.png) 
 
 ## Code Explanation
 - **Function**: `projectile_cordinates(v0)`
@@ -75,4 +75,4 @@ Contributions are welcome! Please follow these steps:
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For questions or feedback, feel free to open an issue on GitHub or contact [your-email@example.com](mailto:your-email@example.com).
+For questions or feedback, feel free to open an issue on GitHub or contact [ronasr82l@gmail.com.com](mailto:ronasr82@gmail.com).
